@@ -15,7 +15,7 @@ fr:
     rism_series: Série RISM
     rism_series_a_b_references: Référence au RISM A/I et B
     rism_series_number: Numéro RISM
-    rule_type: Règle de cat.
+    rule_type: Règle de catalogage
     scope_printed_music_rism: Portée de la documentation des impressions musicales
       dans RISM
     searching: Recherche
@@ -613,7 +613,7 @@ fr:
     now_in: Maintenant à
     number: Nombre
     number_page: Numéro/page
-    number_part_section: Numéro de partie / section d'une œuvre
+    number_part_section: Oeuvre/numéro de catalogue
     number_volume_part: Numéro du volume ou de la partie
     numbers_code_fields: Numéros et codes
     octoechos1: 'Octoechos 1: Ēchos prōtos (premier mode dans la musique byzantine)'
@@ -732,7 +732,7 @@ fr:
     series: Série
     series_added_entry: Champs de collection
     series_statement: Mentions de collection
-    set: Groupe de matériaux
+    set: Parties existantes
     shelfmark: Cote
     shelfmark_olim: Ancienne cote (olim)
     short_title: Titre abrégé

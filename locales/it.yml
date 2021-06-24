@@ -15,7 +15,7 @@ it:
     rism_series: Serie RISM
     rism_series_a_b_references: Rimandi a RISM A/I e RISM B
     rism_series_number: Numero RISM
-    rule_type: Regole di cat.
+    rule_type: Regole di catalogazione
     scope_printed_music_rism: Copertura delle edizioni musicali a stampa in RISM
     searching: Ricerca
     source_citation: Citazione della fonte
@@ -341,7 +341,7 @@ it:
     control_fields: Campi di controllo
     control_number_identifier: Identificatore del numero di controllo
     control_subfield: Sottocampo di controllo
-    copy_examined: Copa esaminata per la catalogazione
+    copy_examined: Copia esaminata per la catalogazione
     copyist: Copista
     copyright_holder: Titolare dei diritti d'autore
     costume_designer: Costumista
@@ -536,10 +536,10 @@ it:
     lithography: Litografia
     liturgical_festival: Festa liturgica
     liturgical_festivals: Feste liturgiche
-    local_id_number: Num. locale
+    local_id_number: Numero locale
     local_note_field: Nota locale
     local_notes_field: Nota interna
-    local_number: Num. locale
+    local_number: Numero locale
     location: Luogo
     location_and_address: Luogo ed indirizzo
     location_insertion: Collocazione dell'inserimento nell'opera principale
@@ -613,7 +613,7 @@ it:
     now_in: Ora in
     number: Numero
     number_page: Numero/pagina
-    number_part_section: Numero della parte/sezione di una composizione
+    number_part_section: Numero d'opera/di catalogo
     number_volume_part: Numero del volume/parte
     numbers_code_fields: Numeri e codici
     octoechos1: 'Octoechos 1: Ēchos prōtos (primo modo nella musica bizantina)'
@@ -732,7 +732,7 @@ it:
     series: Serie
     series_added_entry: Notizia secondaria sul titolo sovraordinato
     series_statement: Informazioni sul titolo sovraordinato
-    set: Gruppo di materiale
+    set: Parti staccate esistenti
     shelfmark: Segnatura
     shelfmark_olim: Segnatura antica (olim)
     short_title: Titolo breve
@@ -744,10 +744,10 @@ it:
     solo_voice: Voce solista
     soloist_instrument: Strumento solista
     source: Fonte
-    sources: Fontes
+    sources: Fonti
     source_data_found: Fonte dei dati
     source_data_not_found: Fonte consultata senza esito
-    source_description: Copa esaminata per la catalogazione
+    source_description: Copia esaminata per la catalogazione
     source_details: Descrizione fisica
     source_number_code: Agenzia autorità
     source_of_acquisition_note: Nota sulla fonte d'acquisto
